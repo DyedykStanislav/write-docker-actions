@@ -1,5 +1,5 @@
 # import requests
-# import random
+import random
 # import sys
 
 # # Make an HTTP GET request to the cat-fact API
